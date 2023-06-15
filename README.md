@@ -14,13 +14,15 @@ Create and customize stunning 3D models and geometries with various lights as we
 4) Download the resulting t-shirt model image
 5) Generate Texture of the shirt by using OpenAI
    
-![Screenshot (350)](https://github.com/Bhumika-Sethi/CureFelt/assets/67055739/81d672fb-9060-4c5d-a52a-d74d8237f92d)
+
+![Screenshot (350)](https://github.com/Bhumika-Sethi/3D-Customerizable-T-Shirts/assets/67055739/76475001-26a8-4e32-9778-c6e0d1b63320)
 
 6) You can customerize the logo too with the help of openAI
 
-![Screenshot (358)](https://github.com/Bhumika-Sethi/3D-Customerizable-T-Shirts/assets/67055739/86848608-5bd3-40c8-9aae-b3f53315f2d9)
+![Screenshot (358)](https://github.com/Bhumika-Sethi/3D-Customerizable-T-Shirts/assets/67055739/81e99b6a-c5a1-487b-ae8e-15a4dbbb6ac8)
 
-![Screenshot (360)](https://github.com/Bhumika-Sethi/3D-Customerizable-T-Shirts/assets/67055739/9692d298-7074-4901-8a77-280355b4a183)
+![Screenshot (360)](https://github.com/Bhumika-Sethi/3D-Customerizable-T-Shirts/assets/67055739/8fb31acc-9757-4e5b-b5d5-0311c6578fdb)
+
 
 8) An option to customerize by adding texture/logo to your t-shirt is available. You simply have to add the file and Bingo!!
 
