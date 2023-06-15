@@ -24,7 +24,8 @@ Create and customize stunning 3D models and geometries with various lights as we
 
 8) An option to customerize by adding texture/logo to your t-shirt is available. You simply have to add the file and Bingo!!
 
-![Screenshot (361)](https://github.com/Bhumika-Sethi/3D-Customerizable-T-Shirts/assets/67055739/efffd295-cad6-4496-91c6-da58e7b8f2a9)
+
+![Screenshot (361)](https://github.com/Bhumika-Sethi/3D-Customerizable-T-Shirts/assets/67055739/af22d281-3c69-41b9-871e-2f3c8a74aba4)
 
 
 
