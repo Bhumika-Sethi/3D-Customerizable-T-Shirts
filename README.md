@@ -1,6 +1,9 @@
 # 3D-Customerizable-T-Shirts
 Create and customize stunning 3D models and geometries with various lights as well as with a camera and positioning of an object in space, you can view 3D model of your t-shirt.
 
+![tshirt](https://github.com/Bhumika-Sethi/3D-Customerizable-T-Shirts/assets/67055739/4553151c-bf1a-4e4f-b677-ff0354d863a5)
+
+
 # Libraries and Frameworks used
 1) ThreeJS - a powerful 3D graphics library for rendering and animating the 3D model
 2) React Three Fiber - a popular library for creating 3D graphics with ThreeJS in React
